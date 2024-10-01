@@ -1,4 +1,4 @@
-Appunti e esercitazioni per progettazione di algoritmi (Algo2)
+Appunti ed esercizi per progettazione di algoritmi (Algo2)
 
 Contenuto:
     + Teoria dei grafi
